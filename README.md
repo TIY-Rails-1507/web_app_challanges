@@ -8,6 +8,12 @@ However, you are encouraged to give at least one these a bash. If you get stuck 
 
 Slack Group: https://tiystudents.slack.com/messages/lon_jul2015_rails/
 
+## Big Idea &trade;
+
+Come up with an idea that interests you... 
+
+Anything is good, the more practive you get the better.
+
 ## Rock Paper Scissors 2.0
 
 Due to popular demand, RPS is going onto the web!
@@ -51,8 +57,4 @@ It should also be possible to determine where the user of the site is....
 
 Do something with the Trello, Twitter, or GitHub API...
 
-
-## Big Idea <sup>tm</sup>
-
-Come up with an idea that interests you...
 
