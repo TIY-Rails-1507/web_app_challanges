@@ -23,13 +23,13 @@ Create a simple app that let's a user play RPS against the computer.
 Hint: After Wednesday we would have probably covered enough to get this working in a simple way. 
 
 
-## A Film Review Site
+## A Film Site
 
-Create a site that lists a bunch of films, as well as reviews for each movie. 
+Create a site that lists a bunch of films, as well as data for each film. 
 
 The fun bits: 
-* Get the data from: http://www.omdbapi.com/
 * Show trailers via embedding the YouTube player into your sites pages 
+* Get the data from: http://www.omdbapi.com/
 
 
 ## Online Blackjack
