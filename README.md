@@ -4,8 +4,9 @@ These are some ideas for web applications to build.
 
 Please note that we have not yet covered all the topics you would need to do these. In fact we probably won't cover all the bits that would make these work in the class. 
 
-However, you are encouraged to give at least one these a bash. If you get stuck you could ping the class on SLack and we will point you in the right direction.
+However, you are encouraged to give at least one these a bash. If you get stuck you could ping the class on Slack and we will point you in the right direction.
 
+Slack Group: https://tiystudents.slack.com/messages/lon_jul2015_rails/
 
 ## Rock Paper Scissors - the web version
 
