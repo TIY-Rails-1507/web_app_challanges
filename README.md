@@ -12,7 +12,7 @@ Slack Group: https://tiystudents.slack.com/messages/lon_jul2015_rails/
 
 Come up with an idea that interests you... 
 
-Anything is good, the more practive you get the better.
+Anything is good, the more practice you get the better.
 
 ## Rock Paper Scissors 2.0
 
