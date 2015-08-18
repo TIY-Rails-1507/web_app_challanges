@@ -8,7 +8,7 @@ However, you are encouraged to give at least one these a bash. If you get stuck 
 
 Slack Group: https://tiystudents.slack.com/messages/lon_jul2015_rails/
 
-## Rock Paper Scissors - the web version
+## Rock Paper Scissors 2.0
 
 Due to popular demand, RPS is going onto the web!
 
