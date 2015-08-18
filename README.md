@@ -40,7 +40,7 @@ API: http://deckofcardsapi.com/
 
 This is obviously a lot more challenging, but it can be done - (I have not actually done, but I am suer you guys can)
 
-Hint: To get started simply display two random cards at a given URL.
+Hint: To get started simply display two random cards at a given page in your application.
 
 
 ## Where in the world?
