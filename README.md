@@ -57,4 +57,8 @@ It should also be possible to determine where the user of the site is....
 
 Do something with the Trello, Twitter, or GitHub API...
 
+Or one of these:
 
+http://www.programmableweb.com/apis/directory
+
+https://www.mashape.com/
